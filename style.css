@@ -1,0 +1,41 @@
+/* tag's */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0, 0, 0, 0.6)
+}
+
+nav ul{
+	float: right;
+	margin-right: 115px;
+	margin-top: 28px;
+}
+
+nav ul li {
+	float: left;
+	list-style-type: none;
+
+	font-size: 14px;
+	margin-right: 31px;
+	color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* classes */
+
+/* id's */
